@@ -56,10 +56,10 @@ Search up to 3 levels deep:
 
 The script exits with an error when:
 
-- `-d` is missing or invalid
 - suffix or command is missing
 - command is not available in `PATH`
 - no matching files are found
+- `-d` is provided without a value or is invalid
 
 ## License
 
