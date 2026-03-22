@@ -80,4 +80,4 @@ The script exits with an error when:
 
 ## License
 
-MIT. See `LICENSE`.
+[MIT](LICENSE)
